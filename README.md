@@ -1,5 +1,12 @@
 <img align="center" src="https://raw.githubusercontent.com/dhruvilp/dhruvilp/master/gh_header.png" />
 
+[![Dhruvil's github stats](https://github-readme-stats.vercel.app/api?username=dhruvilp&show_icons=true&title_color=f9a826&icon_color=f9a826&text_color=fff&bg_color=091d57)](https://github-readme-stats.vercel.app/api?username=dhruvilp&show_icons=true&title_color=f9a826&icon_color=f9a826&text_color=fff&bg_color=091d57)
+<img align="right" height="208" src="https://raw.githubusercontent.com/dhruvilp/dhruvilp/master/gh_social_card.svg">
+
+[![HitCount](http://hits.dwyl.com/dhruvilp/dhruvilp.svg)](http://hits.dwyl.com/dhruvilp/dhruvilp)
+[![Followers](https://img.shields.io/github/followers/dhruvilp?logo=github)](https://img.shields.io/github/followers/dhruvilp?logo=github)
+[![Ask Me Anything](https://img.shields.io/badge/Ask%20me-anything%20about%20💻%20|%20🎸-9755c9.svg)](mailto:sayhi@dhruvilpatel.dev)
+
 <!--
 **dhruvilp/dhruvilp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
