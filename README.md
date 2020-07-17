@@ -2,6 +2,8 @@
 
 [![Dhruvil's github stats](https://github-readme-stats.vercel.app/api?username=dhruvilp&show_icons=true&title_color=f9a826&icon_color=f9a826&text_color=fff&bg_color=091d57)](https://github-readme-stats.vercel.app/api?username=dhruvilp&show_icons=true&title_color=f9a826&icon_color=f9a826&text_color=fff&bg_color=091d57)
 
+##### Follow Me
+
 [![HitCount](https://img.shields.io/github/search/dhruvilp/dhruvilp/hit?color=04b8af)](https://img.shields.io/github/search/dhruvilp/dhruvilp/hit?color=04b8af)
 [![Followers](https://img.shields.io/github/followers/dhruvilp?logo=github)](https://img.shields.io/github/followers/dhruvilp?logo=github)
 [![Portfolio](https://img.shields.io/badge/WebPage-dhruvilpatel.dev-e0900d)](https://img.shields.io/badge/WebPage-dhruvilpatel.dev-e0900d)
