@@ -1,4 +1,4 @@
-<img align="center" src="https://raw.githubusercontent.com/dhruvilp/dhruvilp/master/gh_header_card.png" />
+<img align="center" src="https://raw.githubusercontent.com/dhruvilp/dhruvilp/master/gh_header.png" />
 
 [![Dhruvil's github stats](https://github-readme-stats.vercel.app/api?username=dhruvilp&show_icons=true&title_color=f9a826&icon_color=f9a826&text_color=fff&bg_color=091d57)](https://github-readme-stats.vercel.app/api?username=dhruvilp&show_icons=true&title_color=f9a826&icon_color=f9a826&text_color=fff&bg_color=091d57)
 
