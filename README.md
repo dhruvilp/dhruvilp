@@ -1,12 +1,16 @@
 <img align="center" src="https://raw.githubusercontent.com/dhruvilp/dhruvilp/master/gh_header.png" />
 
+<p align="left"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/dhruvilp/count.svg" />
+</p>
+
 [![Dhruvil's github stats](https://github-readme-stats.vercel.app/api?username=dhruvilp&show_icons=true&title_color=f9a826&icon_color=f9a826&text_color=fff&bg_color=091d57)](https://github-readme-stats.vercel.app/api?username=dhruvilp&show_icons=true&title_color=f9a826&icon_color=f9a826&text_color=fff&bg_color=091d57)
 
 ##### Follow Me
 
-[![HitCount](https://img.shields.io/github/search/dhruvilp/dhruvilp/hit?color=04b8af)](https://img.shields.io/github/search/dhruvilp/dhruvilp/hit?color=04b8af)
 [![Followers](https://img.shields.io/github/followers/dhruvilp?logo=github)](https://img.shields.io/github/followers/dhruvilp?logo=github)
-[![Portfolio](https://img.shields.io/badge/WebPage-dhruvilpatel.dev-e0900d)](https://img.shields.io/badge/WebPage-dhruvilpatel.dev-e0900d)
+[![Portfolio](https://img.shields.io/badge/WebPage-dhruvilpatel.dev-f70f55)](https://img.shields.io/badge/WebPage-dhruvilpatel.dev-f70f55)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-dhruvilhpatel-0d81e0?logo=linkedin)](https://img.shields.io/badge/LinkedIn-dhruvilhpatel-0d81e0=linkedin)
 [![Ask Me Anything](https://img.shields.io/badge/Ask%20me-anything%20about%20💻%20|%20🎸-0aad41.svg)](mailto:sayhi@dhruvilpatel.dev)
 
@@ -48,6 +52,8 @@
 
 <!--
 **dhruvilp/dhruvilp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+[![HitCount](https://img.shields.io/github/search/dhruvilp/dhruvilp/hit?color=04b8af)](https://img.shields.io/github/search/dhruvilp/dhruvilp/hit?color=04b8af)
 
 Here are some ideas to get you started:
 
